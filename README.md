@@ -66,4 +66,4 @@ Applying Word2Vec to Wikipedia database dump
 ## Contributors
 * [Richard Kim](https://github.com/khgkim)
 * [Lauren Namdar](https://github.com/lnamdar)
-* Samuel Davidson
+* [Sam Davidson](https://github.com/ssdavidson)
